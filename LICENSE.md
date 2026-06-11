@@ -1,0 +1,201 @@
+# 📜 Fanous Community License — Edition 1.0
+
+**آخرین به‌روزرسانی:** ۲۰۲۶  
+**کشور محل ثبت حقوق:** ایران  
+
+---
+
+## ۱. هویت و ساختار پروژه (Project Identity & Structure)
+
+این پروژه دارای ساختار سلسله‌مراتبی زیر است:
+
+```
+@ghadiranweb (بنیانگذار / شخص)
+     ↓
+فانوس وب ۳ (Fanous Web 3) — تیم
+     ↓
+Fanous Layered Ledger Architecture™ (FLLA) — معماری پایه
+     ↓
+Financial Compass 8D™ — محصول نهایی
+```
+
+| سطح | نقش | نام |
+|---|---|---|
+| **👤 بنیانگذار** | شخص حقیقی / هویت گیت‌هاب | **هادی جعفری (Hadi Jafari)** / @hadiranweb |
+| **🏢 تیم** | برند تیم توسعه | **فانوس وب ۳ (Fanous Web 3)** |
+| **🏗️ معماری پایه** | چارچوب فنی زیرساخت (متن‌باز) | **Fanous Layered Ledger Architecture™ (FLLA)** — معماری دفتر کل لایه‌ای فانوس™ |
+| **🚀 محصول** | **محصول نهایی تحت این لایسنس** | **Financial Compass 8D™** — قطب‌نمای ۸‌بعدی™ |
+
+> **Financial Compass 8D™** محصولی است از **فانوس وب ۳**، برگرفته از معماری **Fanous Layered Ledger Architecture™ (FLLA)**، به تلاش فردی **@hadiranweb**.
+
+---
+
+## ۲. مالکیت (Ownership)
+
+کلیه حقوق مادی و معنوی محصول **Financial Compass 8D™** و معماری پایه‌ای آن (**FLLA**)، شامل اما نه محدود به:
+
+- کد منبع (HTML, CSS, JavaScript, JSON, Python, و سایر)
+- چارچوب فکری ۸ بُعدی (8D Framework Methodology)
+- معماری دفتر کل لایه‌ای (Layered Ledger Architecture)
+- دیکشنری ۵۲ اصطلاح دو زبانه
+- ساختار پرسشنامه و مدل اولویت‌بندی
+- طراحی بصری و زیبایی‌شناسی رابط کاربری
+- خروجی JSON و ساختار داده
+
+متعلق است به:
+
+| صاحب اثر | شرح |
+|---|---|
+| **هادی جعفری (Hadi Jafari)** | بنیانگذار و شخص حقیقی — @hadiranweb |
+| **فانوس وب ۳ (Fanous Web 3)** | تیم توسعه و برند تجاری |
+
+---
+
+## ۳. مجوز استفاده (License Terms)
+
+### ۳.۱. استفاده غیرتجاری (Non-Commercial Use) ✅ **رایگان**
+
+شما مجاز هستید بدون نیاز به پرداخت وجه:
+- این اثر را **کپی، توزیع، نمایش و اجرا** کنید
+- نسخه‌های **تغییریافته (مشتق)** از آن بسازید
+- از آن برای **آموزش شخصی، پژوهش دانشگاهی، و یادگیری** استفاده کنید
+
+**مشروط به:**
+- ذکر کامل منبع و حق مؤلف (طبق بند ۴)
+- استفاده نکردن برای اهداف تجاری (طبق تعریف بند ۳.۲)
+
+### ۳.۲. استفاده تجاری (Commercial Use) ❌ **نیازمند مجوز جداگانه**
+
+استفاده تجاری **بدون مجوز کتبی** از صاحب اثر **ممنوع** است. مصادیق استفاده تجاری عبارتند از:
+
+- استفاده در **محصول یا خدمت فروشی** (نرم‌افزار، سرویس وب، اپلیکیشن)
+- **مشاوره سازمانی** مبتنی بر این چارچوب (مگر با ذکر منبع و مجوز جداگانه)
+- **آموزش پولی** در شرکت‌ها یا موسسات آموزشی (دوره‌های تجاری)
+- **ادغام در پلتفرم‌های SaaS** یا سیستم‌های درآمدزا
+- ایجاد **هسته اصلی یک استارتاپ یا محصول تجاری** بر اساس این چارچوب
+
+> **برای دریافت مجوز تجاری (Commercial License):**  
+> با صاحب اثر از طریق راه‌های ارتباطی بند ۶ تماس بگیرید.
+
+### ۳.۳. آثار مشتق (Derivative Works)
+
+شما مجاز به ساخت آثار مشتق (تغییر، بهبود، ترجمه، ترکیب) هستید، **مشروط به:**
+- ذکر واضح منبع اصلی و صاحب اثر در آثار مشتق
+- اعمال همین شرایط لایسنس بر آثار مشتق (Share-Alike)
+- **آثار مشتق تجاری نیازمند مجوز جداگانه هستند**
+
+---
+
+## ۴. متن حق مؤلف (Attribution / Copyright Notice)
+
+هرگونه کپی، توزیع، یا استفاده از این اثر **باید** شامل متن زیر باشد:
+
+---
+
+### متن استاندارد فارسی:
+```
+© ۲۰۲۶ هادی جعفری (فانوس وب ۳) — تمام حقوق محفوظ.
+محصول Financial Compass 8D™ (قطب‌نمای ۸‌بعدی™)
+برگرفته از معماری Fanous Layered Ledger Architecture™ (FLLA)
+به تلاش @hadiranweb
+تحت «Fanous Community License» منتشر شده است.
+استفاده تجاری بدون مجوز کتبی ممنوع است.
+```
+
+### متن استاندارد انگلیسی:
+```
+© 2026 Hadi Jafari (Fanous Web 3) — All Rights Reserved.
+Financial Compass 8D™ — powered by Fanous Layered Ledger Architecture™ (FLLA)
+Crafted by @hadiranweb
+Licensed under the Fanous Community License.
+Commercial use without written permission is prohibited.
+```
+
+### متن فشرده (برای JSON و فوتر):
+```json
+"copyright": "© 2026 Hadi Jafari (Fanous Web 3) — Financial Compass 8D™ powered by FLLA™ by @hadiranweb. Licensed under Fanous Community License. Commercial use prohibited without license."
+```
+
+---
+
+## ۵. تقدیر و اعتبار منابع علمی (Acknowledgments)
+
+این چارچوب با الهام از و ارجاع به منابع علمی/آموزشی زیر توسعه یافته است:
+
+### ۵.۱. OECD/INFE Core Competencies Framework on Financial Literacy
+- **منبع:** OECD (2016). *G20/OECD INFE Core Competencies Framework on Financial Literacy for Adults*. OECD Publishing, Paris.
+- **دسترسی:** این سند به صورت متن‌باز و رایگان از وبسایت OECD در دسترس است
+- **نقش:** الهام‌بخش در ساختاردهی ابعاد سواد مالی و دسته‌بندی شایستگی‌ها
+- **لینک:** https://www.gpfi.org/sites/default/files/documents/Core-Competencies-Framework-Adults.pdf
+
+### ۵.۲. TOGAF — The Open Group Architecture Framework
+- **منبع:** The Open Group (2022). *TOGAF Standard, 10th Edition*. The Open Group.
+- **دسترسی:** استاندارد باز (Open Standard) — استفاده داخلی رایگان
+- **نقش:** الهام‌بخش در معماری لایه‌ای، متدولوژی ADM، و دیدگاه ۴ دامنه‌ای
+- **لینک:** https://www.opengroup.org/togaf
+
+### ۵.۳. Lusardi & Mitchell — "Big Three" Financial Literacy Questions
+- **منبع:** Lusardi, A., & Mitchell, O. S. (2011). *Financial literacy around the world: an overview*. Journal of Pension Economics & Finance, 10(4), 497-508.
+- **دسترسی:** مقالات آکادمیک با دسترسی باز (Open Access)
+- **نقش:** الهام‌بخش در طراحی سؤالات سنجش سواد مالی (بخش دیکشنری ۵۲ اصطلاح)
+- **لینک:** https://gflec.org/education/big-three/
+
+### ۵.۴. PISA Financial Literacy Framework — OECD
+- **منبع:** OECD (2021). *PISA 2021 Financial Literacy Framework*. OECD Publishing.
+- **دسترسی:** سند متن‌باز و رایگان
+- **نقش:** الهام‌بخش در طراحی فرآیندهای ارزشیابی و سطح‌بندی
+- **لینک:** https://www.oecd.org/pisa/
+
+### ۵.۵. Real-World Asset (RWA) Tokenization Research
+- **منبع:** Vella, G. et al. (2026). *A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure*. arXiv.
+- **دسترسی:** مقاله متن‌باز (Open Access) در arXiv
+- **نقش:** الهام‌بخش در طراحی لایه دارایی‌های دنیای واقعی (RWA Layer)
+- **لینک:** https://arxiv.org/abs/2606.08534
+
+> کلیه منابع فوق به صورت **Open Access / Open Standard** در دسترس عمومی هستند. **Financial Compass 8D™** ادامه‌دهنده راه این منابع در جهت بومی‌سازی، ساده‌سازی و ارائه به مخاطبان فارسی‌زبان است، برگرفته از معماری **Fanous Layered Ledger Architecture™ (FLLA)**.
+
+---
+
+## ۶. ارتباط با صاحب اثر (Contact)
+
+```
+بنیانگذار: هادی جعفری (Hadi Jafari)
+گیت‌هاب:   @hadiranweb
+ایمیل:    hadiranweb@gmail.com
+
+تیم:      فانوس وب ۳ (Fanous Web 3)
+وبسایت:   fanousweb3.com
+
+محصول:    Financial Compass 8D™
+معماری:   Fanous Layered Ledger Architecture™ (FLLA)
+```
+
+---
+
+## ۷. علائم تجاری (Trademark Notice)
+
+علائم تجاری ثبت‌شده (™) متعلق به **هادی جعفری / فانوس وب ۳**:
+
+| علامت تجاری | حوزه |
+|---|---|
+| **Financial Compass 8D™** | محصول / برند مشاوره |
+| **قطب‌نمای ۸‌بعدی™** | نام فارسی محصول |
+| **Fanous Layered Ledger Architecture™ (FLLA)** | معماری پایه / چارچوب فنی |
+| **فانوس وب ۳ (Fanous Web 3)** | برند تیم |
+
+استفاده از این نام‌ها در آثار مشتق یا بازاریابی نیازمند ذکر مالکیت علامت تجاری است. هیچ‌کس بدون اجازه کتبی نمی‌تواند از این نام‌ها به گونه‌ای استفاده کند که القاکننده تأیید، حمایت یا همکاری با صاحب علامت باشد.
+
+---
+
+## ۸. سلب مسئولیت (Disclaimer)
+
+این اثر «همان‌گونه که هست» (AS-IS) ارائه می‌شود. صاحب اثر هیچ‌گونه ضمانتی در مورد دقت، کامل‌بودن، یا مناسب‌بودن برای هدف خاصی نمی‌دهد. استفاده از این اثر به عهده خود کاربر است.
+
+---
+
+*Fanous Community License — Edition 1.0 — © 2026 Hadi Jafari (Fanous Web 3)*
+
+---
+
+> **یک خط برای حافظه:**  
+> *Financial Compass 8D™* is the product, *FLLA™* is the engine, *Fanous Web 3* is the team, *@hadiranweb* is the mind.
